@@ -1,0 +1,7 @@
+<!-- About -->
+<section id="about" class="text-center py-20">
+  <img id="profile-pic" 
+       src="https://ui-avatars.com/api/?name=Shaheema+S+A&background=38bdf8&color=fff&size=256" 
+       alt="Shaheema S A" 
+       class="w-32 h-32 md:w-40 md:h-40 mx-auto rounded-full border-4 border-cyan-400 shadow-lg object-cover">
+</section>
